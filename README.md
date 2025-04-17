@@ -17,6 +17,7 @@ This project provides a FastAPI server that uses LangChain with ChatOllama to se
 - [Python 3.8+](https://www.python.org/downloads/)
 - [Ollama](https://ollama.com) (for local model serving)
 - [Make](https://www.gnu.org/software/make/) (optional, for using Makefile commands)
+- [ffmpeg](https://www.gyan.dev/ffmpeg/builds/) (for Windows environment)
 
 ## Getting Started
 
