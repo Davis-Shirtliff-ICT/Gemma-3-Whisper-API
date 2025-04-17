@@ -23,8 +23,8 @@ This project provides a FastAPI server that uses LangChain with ChatOllama to se
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/gemma3-api.git
-cd gemma3-api
+git clone https://github.com/Davis-Shirtliff-ICT/Gemma-3-Whisper-API.git
+cd /Gemma-3-Whisper-API
 ```
 
 ### 2. Pull the Gemma 3 model using Ollama
